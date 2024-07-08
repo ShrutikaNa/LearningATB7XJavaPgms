@@ -1,7 +1,9 @@
-#Java Programs
+# Java Programs
+
 Author - Shrutika
 
-This Repo contains the source code for the Exercise that we have done in the ATB7x batch
+This Repo contains the source code for the Exercise
+that we have done in the ATB7x batch
 
 -Core JAVA
 -OOPs
@@ -13,4 +15,3 @@ This Repo contains the source code for the Exercise that we have done in the ATB
 -Exception
 -Core Java.pdf
 
-[Java Notes] - TheTestingAcademy (Pramod Sir) (1).pdf
